@@ -1,0 +1,52 @@
+body {
+  background-color: green;
+}
+
+blockquote {
+  color: green;
+}
+
+blockquote footer {
+  float: right;
+}
+
+blockquote p {
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.container {
+  background-color: white;
+  width: 40%;
+  height: 100%;
+  margin-top: 200px;
+}
+
+#quoteButton {
+  color: white;
+  float: right;
+  margin: 20px 0px 0px 0px;
+}
+
+#bottomBlock {
+  padding: 0px 0 20px 0;
+}
+
+.changingColor {
+  color: green;
+  transition: color 3s;
+}
+
+.changingColor2 {
+  background-color: green;
+  transition: background-color 3s;
+}
+
+#copyright {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  background-color: green;
+  color: white;
+  text-align: center;
+}

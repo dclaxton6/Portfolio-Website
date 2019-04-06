@@ -1,0 +1,22 @@
+body{
+  background-color:black;
+}
+#main{
+  margin:70px 0px 0 0px;
+  color:blue;
+  text-align:center;
+}
+#title{
+  color:white;
+  font-size:64px;
+}
+#icon{
+  background-color:grey;
+  margin:20px 0 0 0;
+  height:90px;
+}
+#copyright{
+   margin:20px 0px 0 0;
+  text-align:center;
+  color:white;
+}

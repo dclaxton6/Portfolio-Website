@@ -1,0 +1,54 @@
+body{
+  background-color:grey;
+  background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=47d2b1f32cc05c976af4a39256e01cba&auto=format&fit=crop&w=500&q=60");
+}
+nav{
+  background-color:white;
+}
+nav-link{
+  display:block;
+}
+#logo{
+	font-family: 'Yatra One', cursive;
+}
+
+#profile-pic {
+	border-radius: 50%;
+	max-width: 80%;
+	height:440px;
+	margin: 0 30px 0 20px;
+	max-height:80%;
+}
+.portfolio-pics{
+	margin: 0px 29px 75px 49px;
+}
+.portfolio-pics img{
+	width:80%;
+}
+
+#about{
+	background-color:#aaa;
+	padding-top:100px;
+}
+.contact{
+  margin:10px 30px 200px 0px;
+}
+.contact-input{
+  width:100%;
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid #BBBBBB;
+  margin:15px 0 15px 0;
+}
+.contact-hr{
+  
+  border: 1px solid #bbb; 
+  width:100%;
+}
+
+i{
+	color:#343A40;
+}
+h1, h3, h4, li{
+	font-family: 'Yatra One', cursive;
+}
